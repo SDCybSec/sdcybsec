@@ -73,6 +73,6 @@ Cybersecurity Analyst </b> — focused on AI security, ethical hacking, vulnerab
 ### 📫 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/seyid-kadiri-524771143"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/[www.linkedin.com/in/seyid-kadiri-524771143](https://www.linkedin.com/in/seyid-kadiri-524771143?utm_source=share_via&utm_content=profile&utm_medium=member_ios)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sdcybsec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
