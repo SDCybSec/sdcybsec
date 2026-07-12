@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm SD 👋</h1>
-<h3 align="center">Cybersecurity Analyst | System Administrator |Ethical Hacking & AI Seccurity | VAPT & Security Awareness | ISO 27001/27701</h3>
+<h3 align="center">Cybersecurity Analyst | System Administrator | Ethical Hacking & AI Seccurity | VAPT & Security Awareness | ISO 27001/27701</h3>
 
 <p align="center">
 Cybersecurity Analyst </b> — focused on AI security, ethical hacking, vulnerability assessment & penetration testing, security awareness training, and ISO 27001/27701 compliance work. Currently building out my Python and JavaScript skills alongside hands-on security tooling.
@@ -49,9 +49,7 @@ Cybersecurity Analyst </b> — focused on AI security, ethical hacking, vulnerab
 |---|---|
 | 🔐 [**VaultGo**](https://github.com/SDCybSec/VaultGo) | CLI password manager using AES-256 Fernet encryption and PBKDF2-HMAC-SHA256 key derivation. Includes password history and a key portability/recovery module. |
 
-> More projects coming soon — this table will grow as new ones are built.
 
-> Replace `YOUR-USERNAME` with your actual GitHub username, and pin this repo to your profile.
 
 ---
 
