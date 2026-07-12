@@ -56,12 +56,12 @@ Cybersecurity Analyst </b> — focused on AI security, ethical hacking, vulnerab
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SDCybSec&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SDCybSec&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" alt="Top Languages" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDCybSec&layout=compact&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 
 ---
