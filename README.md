@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm SD 👋</h1>
-<h3 align="center">Cybersecurity Analyst | VAPT & Security Awareness | ISO 27001/27701</h3>
+<h3 align="center">Cybersecurity Analyst | System Administrator |Ethical Hacking & AI Seccurity | VAPT & Security Awareness | ISO 27001/27701</h3>
 
 <p align="center">
-Cybersecurity Analyst at <b>Lasixy Technologies Ltd.</b>, Port Harcourt, Nigeria — focused on vulnerability assessment & penetration testing, ai penetration testing, ethical hacking, programming, security awareness training, and ISO 27001/27701 compliance work. Currently building out my Python and JavaScript skills alongside hands-on security tooling.
+Cybersecurity Analyst at <b>Lasixy Technologies Ltd.</b>, Port Harcourt, Nigeria — focused on AI security, ethical hacking, vulnerability assessment & penetration testing, security awareness training, and ISO 27001/27701 compliance work. Currently building out my Python and JavaScript skills alongside hands-on security tooling.
 </p>
 
 ---
@@ -11,6 +11,7 @@ Cybersecurity Analyst at <b>Lasixy Technologies Ltd.</b>, Port Harcourt, Nigeria
 
 ![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity%20(CC)-0072C6?style=for-the-badge&logo=isc2&logoColor=white)
 ![ISO 27701 LA](https://img.shields.io/badge/ISO%2FIEC%2027701%3A2025-Lead%20Auditor-1abc9c?style=for-the-badge&logo=iso&logoColor=white)
+![Linux Fundamentals](https://img.shields.io/badge/TCM%20Security-Linux%20Fundamentals-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <!-- Add more badges here as you earn them, e.g.: -->
 <!-- ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white) -->
 
@@ -46,7 +47,7 @@ Cybersecurity Analyst at <b>Lasixy Technologies Ltd.</b>, Port Harcourt, Nigeria
 
 | Project | Description |
 |---|---|
-| 🔐 [**VaultGo**](https://github.com/YOUR-USERNAME/VaultGo) | CLI password manager using AES-256 Fernet encryption and PBKDF2-HMAC-SHA256 key derivation. Includes password history and a key portability/recovery module. |
+| 🔐 [**VaultGo**](https://github.com/SDCybSec/VaultGo) | CLI password manager using AES-256 Fernet encryption and PBKDF2-HMAC-SHA256 key derivation. Includes password history and a key portability/recovery module. |
 
 > More projects coming soon — this table will grow as new ones are built.
 
@@ -70,7 +71,6 @@ Cybersecurity Analyst at <b>Lasixy Technologies Ltd.</b>, Port Harcourt, Nigeria
 ### 📫 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/seyid-kadiri-524771143"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sdcybsec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-  
