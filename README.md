@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm SD 👋</h1>
-<h3 align="center">Cybersecurity Analyst | System Administrator | Ethical Hacking & AI Seccurity | VAPT & Security Awareness | ISO 27001/27701</h3>
+<h3 align="center">Cybersecurity Analyst | System Administrator | VAPT & Security Awareness | ISO 27001/27701</h3>
 
 <p align="center">
-Cybersecurity Analyst </b> — focused on AI security, ethical hacking, vulnerability assessment & penetration testing, security awareness training, and ISO 27001/27701 compliance work. Currently building out my Python and JavaScript skills alongside hands-on security tooling.
+Cybersecurity Analyst — focused on ethical hacking, vulnerability assessment & penetration testing, network security, AI security, and ISO 27001/27701 compliance work. Skilled in Linux fundamentals and Linux system administration, with Python and JavaScript development alongside hands-on security tooling.
 </p>
+
 
 ---
 
@@ -15,7 +16,7 @@ Cybersecurity Analyst </b> — focused on AI security, ethical hacking, vulnerab
 <!-- Add more badges here as you earn them, e.g.: -->
 <!-- ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white) -->
 
-📁 [**View verified certificates**](https://github.com/YOUR-USERNAME/certifications)
+📁 [**View verified certificates**](https://github.com/SDCybSec/certifications)
 
 ---
 
@@ -51,21 +52,16 @@ Cybersecurity Analyst </b> — focused on AI security, ethical hacking, vulnerab
 
 
 
----
 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SDCybSec&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=SDCybSec&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=SDCybSec&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDCybSec&layout=compact&hide_border=true" alt="Top Languages" width="40%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDCybSec&layout=compact&hide_border=true" alt="Top Languages" width="40%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SDCybSec&layout=compact&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 
 ---
@@ -73,6 +69,6 @@ Cybersecurity Analyst </b> — focused on AI security, ethical hacking, vulnerab
 ### 📫 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/[www.linkedin.com/in/seyid-kadiri-524771143](https://www.linkedin.com/in/seyid-kadiri-524771143?utm_source=share_via&utm_content=profile&utm_medium=member_ios)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/seyid-kadiri-524771143"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sdcybsec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
