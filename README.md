@@ -21,9 +21,7 @@ Cybersecurity Analyst — focused on SOC, Ethical hacking,  AI security, vulnera
 <a href="https://www.credly.com/badges/e4a8216d-484f-4663-ad12-9fc803fafd68/public_url">
   <img src="https://images.credly.com/images/2859c37a-015b-40a6-b570-4bdd7e849b05/linkedin_thumb_image.png" alt="Certified in Cybersecurity (CC)" width="150">
 </a>
-<a href="https://www.credly.com/badges/b82222da-e619-4474-b349-bbd27d71a4fb/public_url">
-  <img src="https://images.credly.com/images/1a92e79e-4b58-44ae-b4bd-1f63e83c5294/linkedin_thumb_blob" alt="ISO/IEC 27001:2022 Lead Auditor" width="150">
-</a>
+
 <a href="https://www.credly.com/badges/6f382023-a661-4056-ab5c-19483a56aa8e/public_url">
   <img src="https://images.credly.com/images/06c477c6-9db3-43c2-91c8-0f8bcac70811/linkedin_thumb_00196.png" alt="ISO/IEC 27001 Lead Auditor (PECB)" width="150">
 </a>
