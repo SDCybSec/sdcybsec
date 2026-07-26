@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Analyst | SOC | System Administrator | AI Security | Network Security | Programmer | GRC | SAP ABAP | ISO 27001/27701</h3>
 
 <p align="center">
-Cybersecurity Analyst — focused on SOC, Ethical hacking,  AI security, vulnerability assessment & penetration testing, network security, and ISO 27001/27701 compliance work. Skilled in Linux fundamentals and Linux system administration, with Python and JavaScript development alongside hands-on security tooling.
+Cybersecurity Analyst — focused on SOC,  AI security, vulnerability assessment & penetration testing, network security, and ISO 27001/27701 compliance work. Skilled in Linux fundamentals and Linux system administration, with Python and JavaScript development alongside hands-on security tooling.
 </p>
 
 
